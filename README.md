@@ -1,10 +1,8 @@
 <h1 align="center">Oi 👋, eu sou João Victor Melo</h1>
-<h3 align="center">Estudante de Ciência da Computação.</h3>
+<h3 align="left">Estudante de Ciência da Computação.</h3>
 
 - 🌱 Eu estou atualmente aprendendo **Django e melhorando os meus conhecimentos em Python.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,5 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3l4o&show_icons=true&locale=en&layout=compact" alt="m3l4o" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=m3l4o&show_icons=true&locale=en" alt="m3l4o" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=m3l4o&show_icons=true&locale=en" alt="m3l4o" /></p>
 
