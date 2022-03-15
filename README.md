@@ -14,5 +14,5 @@
 </p>
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/m3l4o/m3l4o/blob/output/github-contribution-grid-snake.gif)
 
