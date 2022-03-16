@@ -15,5 +15,4 @@
 
 
 <img src="https://raw.githubusercontent.com/m3l4o/m3l4o/output/github-contribution-grid-snake.svg" />
-![snake gif](https://github.com/m3l4o/m3l4o/blob/output/github-contribution-grid-snake.gif)
 
