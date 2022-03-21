@@ -1,7 +1,7 @@
 <h1 align="left">Oi 👋, eu sou João Victor Melo</h1>
 <h3 align="left">Estudante de Ciência da Computação.</h3>
 
-- 🌱 Eu estou atualmente aprendendo **Django e melhorando os meus conhecimentos em Python.**
+- 🌱 Eu estou atualmente aprendendo **C++**
 
 </p>
 <h3 align="left">Linguagens e ferramentas:</h3>
