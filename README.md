@@ -1,8 +1,6 @@
 <h1 align="left">Oi 👋, eu sou João Victor Melo</h1>
 <h3 align="left">Estudante de Ciência da Computação.</h3>
 
-- 🌱 Eu estou atualmente aprendendo **C++**
-
 </p>
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="c" width="40" height="40"/>  
